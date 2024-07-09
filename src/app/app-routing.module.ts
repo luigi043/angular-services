@@ -4,6 +4,7 @@ import { CartComponent } from '@shared/cart/cart.component';
 import { CatalogComponent } from '@catalog/catalog.component';
 import { SearchComponent } from '@catalog/search/search.component';
 
+
 const routes: Routes = [
   { path: 'catalog', component: CatalogComponent, title: "Catalog - Joe's Robot Shop" },
   { path: 'search', component: SearchComponent, title: "Search - Joe's Robot Shop" },
