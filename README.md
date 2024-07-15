@@ -1,5 +1,5 @@
 # JoesRobotShop
-
+![image](https://github.com/user-attachments/assets/9df5c674-6930-436b-b810-a95e2b4ed4b4)
 This is the demo project for Pluralsight's Angular Services course.
 
 ## Development server
